@@ -1,4 +1,3 @@
-
 🏝️ The Treasure Island Game
 The Treasure Island Game is a text-based adventure game developed in Python. Embark on a thrilling quest to find hidden treasure on a mysterious island. Your choices determine your fate—choose wisely!
 GitHub
