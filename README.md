@@ -42,7 +42,7 @@ Game.py - Main Python script containing the game logic.
 
 README.md - Project documentation.
 
-🤝 Contributing
+<h2 style=font-size:24px;">🤝 Contributing</h2><br>
 Contributions are welcome! If you'd like to improve the game, fix bugs, or add new features, feel free to fork the repository and submit a pull request.
 GitHub
 
@@ -56,6 +56,6 @@ Push to the branch: git push origin feature-name.
 
 Open a pull request.
 
-📄 License
+<h2 style="font-size:24px;">📄 License</h2><br>
 This project is open-source and available under the MIT License.
 
